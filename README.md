@@ -16,7 +16,7 @@ So far, many deep learning algorithms have made a huge success in monocular dept
 	
 ### Setup 
 
-1) Download the model weights [model-f45da743.pt](https://drive.google.com/file/d/1l_w6Jny_erNQpgc8-nzBa_adh4bBDaFw/view?usp=sharing) and place the
+1) Download the model weights [model-f45da743.pt](https://github.com/isl-org/MiDaS/releases/download/v2/model-f46da743.pt) and place the
 file in the root folder.
 
 2) Set up dependencies: 
